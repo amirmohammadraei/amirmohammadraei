@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **amir.m.raei@tutanota.com**
 
-- ⚡ Fun fact **<i class="fab fa-twitch"></i>**
+- ⚡ Fun fact <i class="fab fa-twitch"></i>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
