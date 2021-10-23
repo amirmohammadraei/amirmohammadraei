@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Amir</h1>
 <h3 align="center">I'm currently studying Computer Engineering at Amirkabir University of Technology</h3>
 
-- 💬 Ask me about how to **write hello, world!**
+- 💬 Ask me about how to write **hello, world!**
 
-- 📫 How to reach me **<a href="amir.m.raei@tutanota.com">mail</a>**
+- 📫 How to reach me **amir.m.raei@tutanota.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
