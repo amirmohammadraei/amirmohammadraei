@@ -3,7 +3,7 @@
 
 - 💬 Ask me about how to write **hello, world!**
 
-- 📫 How to reach me **amir.m.raei@tutanota.com**
+- 📫 How to reach me: **amir.m.raei@tutanota.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
