@@ -17,7 +17,7 @@
 [![](https://img.shields.io/badge/-docker-white?style=for-the-badge&logo=docker)](https://www.docker.com/)
 [![](https://img.shields.io/badge/-go-white?style=for-the-badge&logo=go)](https://go.dev/)
 
-## Statistics:
+## Statistics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amirmohammadraei&show_icons=true&theme=monokai)  |  ![Github Steak](https://github-readme-streak-stats.herokuapp.com/?user=amirmohammadraei&theme=monokai)
 :-------------------------:|:-------------------------:
