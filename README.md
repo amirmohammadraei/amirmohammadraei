@@ -29,3 +29,8 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=amirmohammadraei&show_icons=true&locale=en&theme=monokai" alt="amirmohammadraei" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amirmohammadraei&theme=monokai" alt="amirmohammadraei" />
 </p>
+
+## Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammadne&show_icons=true&theme=monokai)  |  ![Github Steak](https://github-readme-streak-stats.herokuapp.com/?user=mohammadne&theme=monokai)
+:-------------------------:|:-------------------------:
