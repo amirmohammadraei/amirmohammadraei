@@ -7,6 +7,7 @@
 ## Contact Me
 
 [![](https://img.shields.io/badge/-amir.m.raei@tutanota.com-gray?style=for-the-badge&logo=tutanota)](mailto:amir.m.raei@tutanota.com)
+[![](https://img.shields.io/badge/-amirmohammadraei-gray?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/amirmohammad-raei/)
 
 ## Languages & Technologies
 
