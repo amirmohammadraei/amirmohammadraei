@@ -26,6 +26,6 @@
 
 <h3 align="left">Statistics:</h3>
 <p align="left">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amirmohammadraei&show_icons=true&locale=en&theme=monokai" alt="amirmohammadraei" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amirmohammadraei&theme=monokai" alt="amirmohammadraei" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=amirmohammadraei&show_icons=true&locale=en&theme=monokai" alt="amirmohammadraei" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amirmohammadraei&theme=monokai" alt="amirmohammadraei" />
 </p>
