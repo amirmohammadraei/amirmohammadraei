@@ -24,13 +24,7 @@
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">Statistics:</h3>
-<p align="left">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=amirmohammadraei&show_icons=true&locale=en&theme=monokai" alt="amirmohammadraei" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amirmohammadraei&theme=monokai" alt="amirmohammadraei" />
-</p>
+## Statistics:
 
-## Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammadne&show_icons=true&theme=monokai)  |  ![Github Steak](https://github-readme-streak-stats.herokuapp.com/?user=mohammadne&theme=monokai)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amirmohammadraei&show_icons=true&theme=monokai)  |  ![Github Steak](https://github-readme-streak-stats.herokuapp.com/?user=amirmohammadraei&theme=monokai)
 :-------------------------:|:-------------------------:
