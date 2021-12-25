@@ -4,7 +4,9 @@
 
 - 💬 Ask me about how to write **hello, world!**
 
-- 📫 How to reach me: [![](https://img.shields.io/badge/-amir.m.raei@tutanota.com-gray?style=for-the-badge&logo=tutanota)](mailto:amir.m.raei@tutanota.com)
+## Contact Me
+
+[![](https://img.shields.io/badge/-amir.m.raei@tutanota.com-gray?style=for-the-badge&logo=tutanota)](mailto:amir.m.raei@tutanota.com)
 
 ## Languages & Technologies
 
