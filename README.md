@@ -25,8 +25,7 @@
 </p>
 
 
-# Amir 👾
-
+<h1 align="center">Hi, I'm Amir 👾</h1>
 
 ## Languages & Technologies
 
