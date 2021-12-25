@@ -2,7 +2,7 @@
 
 <h3 align="center">I'm currently studying Computer Engineering at Amirkabir University of Technology</h3>
 
-- 💬 Ask me about how to write **hello, world!**
+<!-- - 💬 Ask me about how to write **hello, world!** -->
 
 ## Contact Me
 
