@@ -20,5 +20,5 @@ I'm currently studying Computer Engineering at Amirkabir University of Technolog
 
 ## Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amirmohammadraei&show_icons=true&theme=monokai)  |  ![Github Steak](https://github-readme-streak-stats.herokuapp.com/?user=amirmohammadraei&theme=monokai)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amirmohammadraei&show_icons=true&theme=dark)  |  ![Github Steak](https://github-readme-streak-stats.herokuapp.com/?user=amirmohammadraei&theme=monokai)
 :-------------------------:|:-------------------------:
