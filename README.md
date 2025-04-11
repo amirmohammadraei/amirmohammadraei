@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Amir 👾</h1>
 
-I am a Software Engineer at Fraunhofer IGD, currently pursuing a Master of Science in Artificial Intelligence and Machine Learning at Technische Universität Darmstadt. With a strong foundation in computer engineering from Amirkabir University of Technology (2018-2023) and over 3 years of hands-on experience, I specialize in Python and Django development.
+I am a Research Assistant at Fraunhofer IGD, currently pursuing a Master of Science in Artificial Intelligence and Machine Learning at Technische Universität Darmstadt. With a strong foundation in computer engineering from Amirkabir University of Technology (2018-2023) and over 3 years of hands-on experience, I specialize in Python and Django development.
 
 <!-- - 💬 Ask me about how to write **hello, world!** -->
 
