@@ -1,24 +1,25 @@
-<h1 align="center">Hi, I'm Amir 👾</h1>
+<h1 align="center">Hi, I'm Amir</h1>
 
-I am a Research Assistant at Fraunhofer IGD, currently pursuing a Master of Science in Artificial Intelligence and Machine Learning at Technische Universität Darmstadt. With a strong foundation in computer engineering from Amirkabir University of Technology (2018-2023) and over 3 years of hands-on experience, I specialize in Python and Django development.
+Research Assistant at Fraunhofer IGD and Master's student in AI/ML at TU Darmstadt.
 
-<!-- - 💬 Ask me about how to write **hello, world!** -->
+Working on computer vision and biometric systems. Currently focused on signal processing and mobile health applications.  
 
-## Contact Me
+## Links
 
-[![](https://img.shields.io/badge/-amir.m.raei@tutanota.com-gray?style=for-the-badge&logo=tutanota)](mailto:amir.m.raei@tutanota.com)
-[![](https://img.shields.io/badge/-amirmohammadraei-gray?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/amirmohammad-raei/)
+[![Website](https://img.shields.io/badge/-amirmohammadraei.github.io-blue?style=for-the-badge&logo=github)](https://amirmohammadraei.github.io)
+[![Email](https://img.shields.io/badge/-amir.m.raei@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:amir.m.raei@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-amirmohammad--raei-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/amirmohammad-raei/)
 
-## Languages & Technologies
+## Tech Stack
 
-[![](https://img.shields.io/badge/-python3-white?style=for-the-badge&logo=python)](https://www.python.org/)
-[![](https://img.shields.io/badge/-django-white?style=for-the-badge&logo=django)](https://www.djangoproject.com)
-[![](https://img.shields.io/badge/-linux-white?style=for-the-badge&logo=linux)](https://www.linux.org/)
-[![](https://img.shields.io/badge/-docker-white?style=for-the-badge&logo=docker)](https://www.docker.com/)
-[![](https://img.shields.io/badge/-kubernetes-white?style=for-the-badge&logo=kubernetes)](https://www.kubernetes.io/)
-[![](https://img.shields.io/badge/-go-white?style=for-the-badge&logo=go)](https://go.dev/)
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
+[![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
+[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 
-## Statistics
+## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amirmohammadraei&show_icons=true&theme=dark)  |  ![Github Steak](https://github-readme-streak-stats.herokuapp.com/?user=amirmohammadraei&theme=dark)
 :-------------------------:|:-------------------------:
